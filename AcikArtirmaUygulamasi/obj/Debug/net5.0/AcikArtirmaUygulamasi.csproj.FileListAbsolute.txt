@@ -1,0 +1,16 @@
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\AcikArtirmaUygulamasi\bin\Debug\net5.0\AcikArtirmaUygulamasi.exe
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\AcikArtirmaUygulamasi\bin\Debug\net5.0\AcikArtirmaUygulamasi.deps.json
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\AcikArtirmaUygulamasi\bin\Debug\net5.0\AcikArtirmaUygulamasi.runtimeconfig.json
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\AcikArtirmaUygulamasi\bin\Debug\net5.0\AcikArtirmaUygulamasi.runtimeconfig.dev.json
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\AcikArtirmaUygulamasi\bin\Debug\net5.0\AcikArtirmaUygulamasi.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\AcikArtirmaUygulamasi\bin\Debug\net5.0\ref\AcikArtirmaUygulamasi.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\AcikArtirmaUygulamasi\bin\Debug\net5.0\AcikArtirmaUygulamasi.pdb
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\AcikArtirmaUygulamasi\obj\Debug\net5.0\AcikArtirmaUygulamasi.csproj.AssemblyReference.cache
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\AcikArtirmaUygulamasi\obj\Debug\net5.0\AcikArtirmaUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\AcikArtirmaUygulamasi\obj\Debug\net5.0\AcikArtirmaUygulamasi.AssemblyInfoInputs.cache
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\AcikArtirmaUygulamasi\obj\Debug\net5.0\AcikArtirmaUygulamasi.AssemblyInfo.cs
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\AcikArtirmaUygulamasi\obj\Debug\net5.0\AcikArtirmaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\AcikArtirmaUygulamasi\obj\Debug\net5.0\AcikArtirmaUygulamasi.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\AcikArtirmaUygulamasi\obj\Debug\net5.0\ref\AcikArtirmaUygulamasi.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\AcikArtirmaUygulamasi\obj\Debug\net5.0\AcikArtirmaUygulamasi.pdb
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\AcikArtirmaUygulamasi\obj\Debug\net5.0\AcikArtirmaUygulamasi.genruntimeconfig.cache

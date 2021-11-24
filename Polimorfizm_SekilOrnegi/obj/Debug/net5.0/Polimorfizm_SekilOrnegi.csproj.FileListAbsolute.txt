@@ -1,0 +1,16 @@
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\Polimorfizm_SekilOrnegi\bin\Debug\net5.0\Polimorfizm_SekilOrnegi.exe
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\Polimorfizm_SekilOrnegi\bin\Debug\net5.0\Polimorfizm_SekilOrnegi.deps.json
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\Polimorfizm_SekilOrnegi\bin\Debug\net5.0\Polimorfizm_SekilOrnegi.runtimeconfig.json
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\Polimorfizm_SekilOrnegi\bin\Debug\net5.0\Polimorfizm_SekilOrnegi.runtimeconfig.dev.json
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\Polimorfizm_SekilOrnegi\bin\Debug\net5.0\Polimorfizm_SekilOrnegi.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\Polimorfizm_SekilOrnegi\bin\Debug\net5.0\ref\Polimorfizm_SekilOrnegi.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\Polimorfizm_SekilOrnegi\bin\Debug\net5.0\Polimorfizm_SekilOrnegi.pdb
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\Polimorfizm_SekilOrnegi\obj\Debug\net5.0\Polimorfizm_SekilOrnegi.csproj.AssemblyReference.cache
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\Polimorfizm_SekilOrnegi\obj\Debug\net5.0\Polimorfizm_SekilOrnegi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\Polimorfizm_SekilOrnegi\obj\Debug\net5.0\Polimorfizm_SekilOrnegi.AssemblyInfoInputs.cache
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\Polimorfizm_SekilOrnegi\obj\Debug\net5.0\Polimorfizm_SekilOrnegi.AssemblyInfo.cs
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\Polimorfizm_SekilOrnegi\obj\Debug\net5.0\Polimorfizm_SekilOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\Polimorfizm_SekilOrnegi\obj\Debug\net5.0\Polimorfizm_SekilOrnegi.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\Polimorfizm_SekilOrnegi\obj\Debug\net5.0\ref\Polimorfizm_SekilOrnegi.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\Polimorfizm_SekilOrnegi\obj\Debug\net5.0\Polimorfizm_SekilOrnegi.pdb
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\Polimorfizm_SekilOrnegi\obj\Debug\net5.0\Polimorfizm_SekilOrnegi.genruntimeconfig.cache

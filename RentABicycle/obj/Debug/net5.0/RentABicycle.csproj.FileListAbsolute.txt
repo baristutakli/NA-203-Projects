@@ -1,0 +1,16 @@
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\RentABicycle\bin\Debug\net5.0\RentABicycle.exe
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\RentABicycle\bin\Debug\net5.0\RentABicycle.deps.json
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\RentABicycle\bin\Debug\net5.0\RentABicycle.runtimeconfig.json
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\RentABicycle\bin\Debug\net5.0\RentABicycle.runtimeconfig.dev.json
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\RentABicycle\bin\Debug\net5.0\RentABicycle.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\RentABicycle\bin\Debug\net5.0\ref\RentABicycle.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\RentABicycle\bin\Debug\net5.0\RentABicycle.pdb
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\RentABicycle\obj\Debug\net5.0\RentABicycle.csproj.AssemblyReference.cache
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\RentABicycle\obj\Debug\net5.0\RentABicycle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\RentABicycle\obj\Debug\net5.0\RentABicycle.AssemblyInfoInputs.cache
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\RentABicycle\obj\Debug\net5.0\RentABicycle.AssemblyInfo.cs
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\RentABicycle\obj\Debug\net5.0\RentABicycle.csproj.CoreCompileInputs.cache
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\RentABicycle\obj\Debug\net5.0\RentABicycle.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\RentABicycle\obj\Debug\net5.0\ref\RentABicycle.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\RentABicycle\obj\Debug\net5.0\RentABicycle.pdb
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\RentABicycle\obj\Debug\net5.0\RentABicycle.genruntimeconfig.cache

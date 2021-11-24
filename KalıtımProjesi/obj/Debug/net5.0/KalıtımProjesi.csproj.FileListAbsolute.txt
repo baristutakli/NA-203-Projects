@@ -1,0 +1,16 @@
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\KalıtımProjesi\bin\Debug\net5.0\KalıtımProjesi.exe
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\KalıtımProjesi\bin\Debug\net5.0\KalıtımProjesi.deps.json
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\KalıtımProjesi\bin\Debug\net5.0\KalıtımProjesi.runtimeconfig.json
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\KalıtımProjesi\bin\Debug\net5.0\KalıtımProjesi.runtimeconfig.dev.json
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\KalıtımProjesi\bin\Debug\net5.0\KalıtımProjesi.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\KalıtımProjesi\bin\Debug\net5.0\ref\KalıtımProjesi.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\KalıtımProjesi\bin\Debug\net5.0\KalıtımProjesi.pdb
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\KalıtımProjesi\obj\Debug\net5.0\KalıtımProjesi.csproj.AssemblyReference.cache
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\KalıtımProjesi\obj\Debug\net5.0\KalıtımProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\KalıtımProjesi\obj\Debug\net5.0\KalıtımProjesi.AssemblyInfoInputs.cache
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\KalıtımProjesi\obj\Debug\net5.0\KalıtımProjesi.AssemblyInfo.cs
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\KalıtımProjesi\obj\Debug\net5.0\KalıtımProjesi.csproj.CoreCompileInputs.cache
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\KalıtımProjesi\obj\Debug\net5.0\KalıtımProjesi.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\KalıtımProjesi\obj\Debug\net5.0\ref\KalıtımProjesi.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\KalıtımProjesi\obj\Debug\net5.0\KalıtımProjesi.pdb
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\KalıtımProjesi\obj\Debug\net5.0\KalıtımProjesi.genruntimeconfig.cache

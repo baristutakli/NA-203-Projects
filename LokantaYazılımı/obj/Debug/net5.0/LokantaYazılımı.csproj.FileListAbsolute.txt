@@ -1,0 +1,16 @@
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\LokantaYazılımı\bin\Debug\net5.0\LokantaYazılımı.exe
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\LokantaYazılımı\bin\Debug\net5.0\LokantaYazılımı.deps.json
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\LokantaYazılımı\bin\Debug\net5.0\LokantaYazılımı.runtimeconfig.json
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\LokantaYazılımı\bin\Debug\net5.0\LokantaYazılımı.runtimeconfig.dev.json
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\LokantaYazılımı\bin\Debug\net5.0\LokantaYazılımı.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\LokantaYazılımı\bin\Debug\net5.0\ref\LokantaYazılımı.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\LokantaYazılımı\bin\Debug\net5.0\LokantaYazılımı.pdb
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\LokantaYazılımı\obj\Debug\net5.0\LokantaYazılımı.csproj.AssemblyReference.cache
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\LokantaYazılımı\obj\Debug\net5.0\LokantaYazılımı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\LokantaYazılımı\obj\Debug\net5.0\LokantaYazılımı.AssemblyInfoInputs.cache
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\LokantaYazılımı\obj\Debug\net5.0\LokantaYazılımı.AssemblyInfo.cs
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\LokantaYazılımı\obj\Debug\net5.0\LokantaYazılımı.csproj.CoreCompileInputs.cache
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\LokantaYazılımı\obj\Debug\net5.0\LokantaYazılımı.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\LokantaYazılımı\obj\Debug\net5.0\ref\LokantaYazılımı.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\LokantaYazılımı\obj\Debug\net5.0\LokantaYazılımı.pdb
+C:\Users\kbez1\Documents\kodlar\NA-203-Notes\LokantaYazılımı\obj\Debug\net5.0\LokantaYazılımı.genruntimeconfig.cache
