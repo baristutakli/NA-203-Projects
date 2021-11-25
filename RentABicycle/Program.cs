@@ -19,9 +19,9 @@ namespace RentABicycle {
             *
             */
 
-            User user1 = new User("Barış","Tutakli","5555555");
-            User user2 = new User("Barış", "Tutakli", "666666");
-            User user3 = new User("Barış", "Tutakli", "7777777");
+            User user1 = new User("Bob","Marley","5555555");
+            User user2 = new User("George", "Alsion", "666666");
+            User user3 = new User("Michelle", "Larison", "7777777");
             Bicycle bicycle = new Bicycle("MBI", "sport", "18", 21);
             Bicycle bicycle2 = new Bicycle("F1", "Race", "41", 28);
             Bicycle bicycle3 = new Bicycle("Toyota", "retro", "18", 8);

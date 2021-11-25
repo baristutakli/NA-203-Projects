@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Notes\\ArabaProjesi\\ArabaProjesi.csproj": {}
+    "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Projects\\ArabaProjesi\\ArabaProjesi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Notes\\ArabaProjesi\\ArabaProjesi.csproj": {
+    "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Projects\\ArabaProjesi\\ArabaProjesi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Notes\\ArabaProjesi\\ArabaProjesi.csproj",
+        "projectUniqueName": "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Projects\\ArabaProjesi\\ArabaProjesi.csproj",
         "projectName": "ArabaProjesi",
-        "projectPath": "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Notes\\ArabaProjesi\\ArabaProjesi.csproj",
+        "projectPath": "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Projects\\ArabaProjesi\\ArabaProjesi.csproj",
         "packagesPath": "C:\\Users\\kbez1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Notes\\ArabaProjesi\\obj\\",
+        "outputPath": "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Projects\\ArabaProjesi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

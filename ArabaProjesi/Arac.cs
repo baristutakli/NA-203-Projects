@@ -45,7 +45,7 @@ namespace ArabaProjesi {
         }
 
 
-        abstract public void OTVHesapla();
-        abstract public void YillikVergiHesapla();
+        abstract public double OTVHesapla();
+        abstract public double YillikVergiHesapla();
     }
 }

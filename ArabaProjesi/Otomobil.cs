@@ -27,70 +27,72 @@ namespace ArabaProjesi {
             KapiSayisi = kapiSayisi;
         }
 
-        public override void OTVHesapla()
+        public override double OTVHesapla()
         {
 
             if (0 < this.MotorHacmi && this.MotorHacmi <= 999)
             {
-                this.OtvFiyat = this.MotorHacmi * 0.05d;
-                Console.WriteLine($"OTV miktarı: {this.OtvFiyat}");
+                this.OtvFiyat = this.Fiyat * 0.05d;
+              
             }
             else if (1000 <= this.MotorHacmi && this.MotorHacmi <= 1599)
             {
-                this.OtvFiyat = this.MotorHacmi * 0.1d;
-                Console.WriteLine($"OTV miktarı: {this.MotorHacmi * 0.05}");
+                this.OtvFiyat = this.Fiyat * 0.1d;
+             
             }
             else if (1600 <= this.MotorHacmi && this.MotorHacmi <= 1999)
             {
-                this.OtvFiyat = this.MotorHacmi * 0.15d;
-                Console.WriteLine($"OTV miktarı: {this.MotorHacmi * 0.05}");
+                this.OtvFiyat = this.Fiyat * 0.15d;
+              
             }
             else
             {
-                this.OtvFiyat = this.MotorHacmi * 0.2d;
-                Console.WriteLine($"OTV miktarı: {this.MotorHacmi * 0.05}");
+                this.OtvFiyat = this.Fiyat * 0.2d;
+             
             }
+            return this.OtvFiyat;
 
         }
 
-        public override void YillikVergiHesapla()
+        public override double YillikVergiHesapla()
         {
             // Yillik 
             double toplam = 0;
             if (0 < this.UretimYili && this.UretimYili <= 4)
             {
-                toplam += this.UretimYili * 0.05d;
+                toplam += this.Fiyat * 0.05d;
             }
             else if (5 <= this.UretimYili && this.UretimYili <= 9)
             {
-                toplam += this.UretimYili * 0.04d;
+                toplam += this.Fiyat * 0.04d;
             }
             else if(10 <= this.UretimYili)
             {
-                toplam += this.UretimYili * 0.03d;
+                toplam += this.Fiyat * 0.03d;
             }
 
             if (0 < this.MotorHacmi && this.MotorHacmi <= 999)
             {
-                toplam += this.MotorHacmi * 0.02d;
+                toplam += this.Fiyat * 0.02d;
                 
             }
             else if (1000 <= this.MotorHacmi && this.MotorHacmi <= 1599)
             {
-                toplam += this.MotorHacmi * 0.05d;
+                toplam += this.Fiyat * 0.05d;
                
             }
             else if (1600 <= this.MotorHacmi && this.MotorHacmi <= 1999)
             {
-                toplam += this.MotorHacmi * 0.08d;
+                toplam += this.Fiyat * 0.08d;
                
             }
             else if(2000 <= this.MotorHacmi)
             {
-                toplam += this.MotorHacmi * 0.1d;
+                toplam += this.Fiyat * 0.1d;
               
             }
             this.YillikVergiMiktari = toplam;
+            return this.YillikVergiMiktari;
 
         }
     }

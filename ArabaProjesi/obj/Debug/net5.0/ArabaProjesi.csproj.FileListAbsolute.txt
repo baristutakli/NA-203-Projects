@@ -1,0 +1,16 @@
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\ArabaProjesi\bin\Debug\net5.0\ArabaProjesi.exe
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\ArabaProjesi\bin\Debug\net5.0\ArabaProjesi.deps.json
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\ArabaProjesi\bin\Debug\net5.0\ArabaProjesi.runtimeconfig.json
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\ArabaProjesi\bin\Debug\net5.0\ArabaProjesi.runtimeconfig.dev.json
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\ArabaProjesi\bin\Debug\net5.0\ArabaProjesi.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\ArabaProjesi\bin\Debug\net5.0\ref\ArabaProjesi.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\ArabaProjesi\bin\Debug\net5.0\ArabaProjesi.pdb
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\ArabaProjesi\obj\Debug\net5.0\ArabaProjesi.csproj.AssemblyReference.cache
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\ArabaProjesi\obj\Debug\net5.0\ArabaProjesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\ArabaProjesi\obj\Debug\net5.0\ArabaProjesi.AssemblyInfoInputs.cache
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\ArabaProjesi\obj\Debug\net5.0\ArabaProjesi.AssemblyInfo.cs
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\ArabaProjesi\obj\Debug\net5.0\ArabaProjesi.csproj.CoreCompileInputs.cache
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\ArabaProjesi\obj\Debug\net5.0\ArabaProjesi.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\ArabaProjesi\obj\Debug\net5.0\ref\ArabaProjesi.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\ArabaProjesi\obj\Debug\net5.0\ArabaProjesi.pdb
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\ArabaProjesi\obj\Debug\net5.0\ArabaProjesi.genruntimeconfig.cache
