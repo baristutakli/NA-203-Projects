@@ -1,0 +1,16 @@
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Dependency_Injection_Uygulama\bin\Debug\net5.0\Dependency_Injection_Uygulama.exe
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Dependency_Injection_Uygulama\bin\Debug\net5.0\Dependency_Injection_Uygulama.deps.json
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Dependency_Injection_Uygulama\bin\Debug\net5.0\Dependency_Injection_Uygulama.runtimeconfig.json
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Dependency_Injection_Uygulama\bin\Debug\net5.0\Dependency_Injection_Uygulama.runtimeconfig.dev.json
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Dependency_Injection_Uygulama\bin\Debug\net5.0\Dependency_Injection_Uygulama.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Dependency_Injection_Uygulama\bin\Debug\net5.0\ref\Dependency_Injection_Uygulama.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Dependency_Injection_Uygulama\bin\Debug\net5.0\Dependency_Injection_Uygulama.pdb
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Dependency_Injection_Uygulama\obj\Debug\net5.0\Dependency_Injection_Uygulama.csproj.AssemblyReference.cache
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Dependency_Injection_Uygulama\obj\Debug\net5.0\Dependency_Injection_Uygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Dependency_Injection_Uygulama\obj\Debug\net5.0\Dependency_Injection_Uygulama.AssemblyInfoInputs.cache
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Dependency_Injection_Uygulama\obj\Debug\net5.0\Dependency_Injection_Uygulama.AssemblyInfo.cs
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Dependency_Injection_Uygulama\obj\Debug\net5.0\Dependency_Injection_Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Dependency_Injection_Uygulama\obj\Debug\net5.0\Dependency_Injection_Uygulama.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Dependency_Injection_Uygulama\obj\Debug\net5.0\ref\Dependency_Injection_Uygulama.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Dependency_Injection_Uygulama\obj\Debug\net5.0\Dependency_Injection_Uygulama.pdb
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Dependency_Injection_Uygulama\obj\Debug\net5.0\Dependency_Injection_Uygulama.genruntimeconfig.cache
