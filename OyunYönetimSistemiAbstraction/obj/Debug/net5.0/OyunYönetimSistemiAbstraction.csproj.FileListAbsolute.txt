@@ -1,0 +1,16 @@
+C:\Users\kbez1\source\repos\OyunYönetimSistemiAbstraction\obj\Debug\net5.0\OyunYönetimSistemiAbstraction.csproj.AssemblyReference.cache
+C:\Users\kbez1\source\repos\OyunYönetimSistemiAbstraction\obj\Debug\net5.0\OyunYönetimSistemiAbstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbez1\source\repos\OyunYönetimSistemiAbstraction\obj\Debug\net5.0\OyunYönetimSistemiAbstraction.AssemblyInfoInputs.cache
+C:\Users\kbez1\source\repos\OyunYönetimSistemiAbstraction\obj\Debug\net5.0\OyunYönetimSistemiAbstraction.AssemblyInfo.cs
+C:\Users\kbez1\source\repos\OyunYönetimSistemiAbstraction\obj\Debug\net5.0\OyunYönetimSistemiAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\kbez1\source\repos\OyunYönetimSistemiAbstraction\bin\Debug\net5.0\OyunYönetimSistemiAbstraction.exe
+C:\Users\kbez1\source\repos\OyunYönetimSistemiAbstraction\bin\Debug\net5.0\OyunYönetimSistemiAbstraction.deps.json
+C:\Users\kbez1\source\repos\OyunYönetimSistemiAbstraction\bin\Debug\net5.0\OyunYönetimSistemiAbstraction.runtimeconfig.json
+C:\Users\kbez1\source\repos\OyunYönetimSistemiAbstraction\bin\Debug\net5.0\OyunYönetimSistemiAbstraction.runtimeconfig.dev.json
+C:\Users\kbez1\source\repos\OyunYönetimSistemiAbstraction\bin\Debug\net5.0\OyunYönetimSistemiAbstraction.dll
+C:\Users\kbez1\source\repos\OyunYönetimSistemiAbstraction\bin\Debug\net5.0\ref\OyunYönetimSistemiAbstraction.dll
+C:\Users\kbez1\source\repos\OyunYönetimSistemiAbstraction\bin\Debug\net5.0\OyunYönetimSistemiAbstraction.pdb
+C:\Users\kbez1\source\repos\OyunYönetimSistemiAbstraction\obj\Debug\net5.0\OyunYönetimSistemiAbstraction.dll
+C:\Users\kbez1\source\repos\OyunYönetimSistemiAbstraction\obj\Debug\net5.0\ref\OyunYönetimSistemiAbstraction.dll
+C:\Users\kbez1\source\repos\OyunYönetimSistemiAbstraction\obj\Debug\net5.0\OyunYönetimSistemiAbstraction.pdb
+C:\Users\kbez1\source\repos\OyunYönetimSistemiAbstraction\obj\Debug\net5.0\OyunYönetimSistemiAbstraction.genruntimeconfig.cache
