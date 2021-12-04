@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kbez1\\source\\repos\\Northwind_Veritabanı_Egzersizi\\Northwind_Veritabanı_Egzersizi.csproj": {}
+    "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Projects\\Northwind_Veritabanı_Egzersizi\\Northwind_Veritabanı_Egzersizi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kbez1\\source\\repos\\Northwind_Veritabanı_Egzersizi\\Northwind_Veritabanı_Egzersizi.csproj": {
+    "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Projects\\Northwind_Veritabanı_Egzersizi\\Northwind_Veritabanı_Egzersizi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kbez1\\source\\repos\\Northwind_Veritabanı_Egzersizi\\Northwind_Veritabanı_Egzersizi.csproj",
+        "projectUniqueName": "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Projects\\Northwind_Veritabanı_Egzersizi\\Northwind_Veritabanı_Egzersizi.csproj",
         "projectName": "Northwind_Veritabanı_Egzersizi",
-        "projectPath": "C:\\Users\\kbez1\\source\\repos\\Northwind_Veritabanı_Egzersizi\\Northwind_Veritabanı_Egzersizi.csproj",
+        "projectPath": "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Projects\\Northwind_Veritabanı_Egzersizi\\Northwind_Veritabanı_Egzersizi.csproj",
         "packagesPath": "C:\\Users\\kbez1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kbez1\\source\\repos\\Northwind_Veritabanı_Egzersizi\\obj\\",
+        "outputPath": "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Projects\\Northwind_Veritabanı_Egzersizi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

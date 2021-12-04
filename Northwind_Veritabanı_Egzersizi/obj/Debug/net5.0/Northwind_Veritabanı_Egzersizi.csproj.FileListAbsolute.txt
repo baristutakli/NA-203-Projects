@@ -1,0 +1,16 @@
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Northwind_Veritabanı_Egzersizi\bin\Debug\net5.0\Northwind_Veritabanı_Egzersizi.exe
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Northwind_Veritabanı_Egzersizi\bin\Debug\net5.0\Northwind_Veritabanı_Egzersizi.deps.json
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Northwind_Veritabanı_Egzersizi\bin\Debug\net5.0\Northwind_Veritabanı_Egzersizi.runtimeconfig.json
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Northwind_Veritabanı_Egzersizi\bin\Debug\net5.0\Northwind_Veritabanı_Egzersizi.runtimeconfig.dev.json
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Northwind_Veritabanı_Egzersizi\bin\Debug\net5.0\Northwind_Veritabanı_Egzersizi.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Northwind_Veritabanı_Egzersizi\bin\Debug\net5.0\ref\Northwind_Veritabanı_Egzersizi.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Northwind_Veritabanı_Egzersizi\bin\Debug\net5.0\Northwind_Veritabanı_Egzersizi.pdb
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Northwind_Veritabanı_Egzersizi\obj\Debug\net5.0\Northwind_Veritabanı_Egzersizi.csproj.AssemblyReference.cache
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Northwind_Veritabanı_Egzersizi\obj\Debug\net5.0\Northwind_Veritabanı_Egzersizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Northwind_Veritabanı_Egzersizi\obj\Debug\net5.0\Northwind_Veritabanı_Egzersizi.AssemblyInfoInputs.cache
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Northwind_Veritabanı_Egzersizi\obj\Debug\net5.0\Northwind_Veritabanı_Egzersizi.AssemblyInfo.cs
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Northwind_Veritabanı_Egzersizi\obj\Debug\net5.0\Northwind_Veritabanı_Egzersizi.csproj.CoreCompileInputs.cache
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Northwind_Veritabanı_Egzersizi\obj\Debug\net5.0\Northwind_Veritabanı_Egzersizi.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Northwind_Veritabanı_Egzersizi\obj\Debug\net5.0\ref\Northwind_Veritabanı_Egzersizi.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Northwind_Veritabanı_Egzersizi\obj\Debug\net5.0\Northwind_Veritabanı_Egzersizi.pdb
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Northwind_Veritabanı_Egzersizi\obj\Debug\net5.0\Northwind_Veritabanı_Egzersizi.genruntimeconfig.cache
