@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Notes\\RentABicycle\\RentABicycle.csproj",
+      "projectUniqueName": "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Projects\\RentABicycle\\RentABicycle.csproj",
       "projectName": "RentABicycle",
-      "projectPath": "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Notes\\RentABicycle\\RentABicycle.csproj",
+      "projectPath": "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Projects\\RentABicycle\\RentABicycle.csproj",
       "packagesPath": "C:\\Users\\kbez1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Notes\\RentABicycle\\obj\\",
+      "outputPath": "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Projects\\RentABicycle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Notes\\KalıtımProjesi2\\KalıtımProjesi2.csproj",
+      "projectUniqueName": "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Projects\\KalıtımProjesi2\\KalıtımProjesi2.csproj",
       "projectName": "KalıtımProjesi2",
-      "projectPath": "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Notes\\KalıtımProjesi2\\KalıtımProjesi2.csproj",
+      "projectPath": "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Projects\\KalıtımProjesi2\\KalıtımProjesi2.csproj",
       "packagesPath": "C:\\Users\\kbez1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Notes\\KalıtımProjesi2\\obj\\",
+      "outputPath": "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Projects\\KalıtımProjesi2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
