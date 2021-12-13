@@ -19,7 +19,7 @@ namespace Common
             {
                 if (_connection == null)
                 {
-                    _connection = new SqlConnection(@"Server:(localdb)\MSSQLLocalDB;Database=Northwind;Trusted_Connection=true; ");
+                    _connection = new SqlConnection(@"Server=(localdb)\MSSQLLocalDB;Database=Northwind;Trusted_Connection=true; ");
                 }
                 return _connection;
             }

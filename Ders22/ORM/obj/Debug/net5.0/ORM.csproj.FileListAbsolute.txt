@@ -1,0 +1,17 @@
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Ders22\ORM\bin\Debug\net5.0\ORM.deps.json
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Ders22\ORM\bin\Debug\net5.0\ORM.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Ders22\ORM\bin\Debug\net5.0\ref\ORM.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Ders22\ORM\bin\Debug\net5.0\ORM.pdb
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Ders22\ORM\bin\Debug\net5.0\Common.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Ders22\ORM\bin\Debug\net5.0\Entities.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Ders22\ORM\bin\Debug\net5.0\Common.pdb
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Ders22\ORM\bin\Debug\net5.0\Entities.pdb
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Ders22\ORM\obj\Debug\net5.0\ORM.csproj.AssemblyReference.cache
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Ders22\ORM\obj\Debug\net5.0\ORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Ders22\ORM\obj\Debug\net5.0\ORM.AssemblyInfoInputs.cache
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Ders22\ORM\obj\Debug\net5.0\ORM.AssemblyInfo.cs
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Ders22\ORM\obj\Debug\net5.0\ORM.csproj.CoreCompileInputs.cache
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Ders22\ORM\obj\Debug\net5.0\ORM.csproj.CopyComplete
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Ders22\ORM\obj\Debug\net5.0\ORM.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Ders22\ORM\obj\Debug\net5.0\ref\ORM.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\Ders22\ORM\obj\Debug\net5.0\ORM.pdb

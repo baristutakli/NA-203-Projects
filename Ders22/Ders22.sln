@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomProject", "CustomProject\CustomProject.csproj", "{DD996F15-AD20-4A0A-9CE6-478EE773970C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "CustomProject\Common.csproj", "{DD996F15-AD20-4A0A-9CE6-478EE773970C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{E1D09147-0ECA-4C9A-B653-EC966A2521D7}"
 EndProject

@@ -143,6 +143,19 @@
         "runtime": {
           "bin/placeholder/Common.dll": {}
         }
+      },
+      "Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entities.dll": {}
+        }
       }
     }
   },
@@ -464,11 +477,17 @@
       "type": "project",
       "path": "../CustomProject/Common.csproj",
       "msbuildProject": "../CustomProject/Common.csproj"
+    },
+    "Entities/1.0.0": {
+      "type": "project",
+      "path": "../Entities/Entities.csproj",
+      "msbuildProject": "../Entities/Entities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Common >= 1.0.0"
+      "Common >= 1.0.0",
+      "Entities >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -505,6 +524,9 @@
           "projectReferences": {
             "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Projects\\Ders22\\CustomProject\\Common.csproj": {
               "projectPath": "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Projects\\Ders22\\CustomProject\\Common.csproj"
+            },
+            "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Projects\\Ders22\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Projects\\Ders22\\Entities\\Entities.csproj"
             }
           }
         }
