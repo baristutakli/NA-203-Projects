@@ -7,7 +7,7 @@ using Entities;
 
 namespace ORM
 {
-    public class CategoriesORM:ORMBase<Categories>
+    public class CategoriesORM:ORMBase<Categories,CategoriesORM>
     {
 
     }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Common;
 namespace Entities
 {
-    [Table(PrimaryColumn = "ShipperID", TableName = "Shippers")]
+    [Table(PrimaryColumn = "ShipperID", TableName = "Shippers",IdentityColumn ="ShipperID")]
     public class Shippers
     {
         public int ShipperId { get; set; }

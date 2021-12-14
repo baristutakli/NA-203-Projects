@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ORM
 {
-    public class ShippersORM : ORMBase<Shippers>
+    public class ShippersORM : ORMBase<Shippers,ShippersORM>
     {
     }
 }

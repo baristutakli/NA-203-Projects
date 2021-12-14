@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace Entities
 {
     // Bu şekilde veri tabanındaki tablo karşılığını ve tablodaki primary key sutununu belirttik.
-    [Table(PrimaryColumn ="CategoryID",TableName ="Categories")]
+    [Table(PrimaryColumn ="CategoryID",TableName ="Categories",IdentityColumn ="CategoryID")]
     public class Categories
     {
         public int CategoryID { get; set; }
