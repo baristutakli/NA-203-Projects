@@ -60,5 +60,29 @@ namespace Common
             return list;
         }
 
+        public static ET TOET<ET>(this DataTable dt) where ET : class, new()
+        {
+            Type type = typeof(ET);// Gelen tip ne
+            ET entity = new ET();
+            // reflection ile bir sınıfa ait hangi özellikler var öğrenebiliyorum
+            PropertyInfo[] properties = type.GetProperties();// sınıfa ait özellikleri bir diziye attık
+            foreach (DataRow dr in dt.Rows)
+            {
+   
+                foreach (PropertyInfo pi in properties)
+                {
+                    object value = dr[pi.Name];// Sınıf özelliğinin adı ile veri tabanındaki tablodan veri çektik
+                    // Yani datarow[CategoryName] dediğimizde oradaki veriye ulaşmış olacağız.
+                    if (value != null)
+                    {
+                        pi.SetValue(entity, value);
+                    }
+                }
+               
+            }
+            return entity;
+        }
+
+
     }
 }
