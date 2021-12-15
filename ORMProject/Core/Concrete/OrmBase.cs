@@ -1,6 +1,6 @@
-﻿using DataAccess.Abstract;
-using Entities.Abstract;
-using Entities.Concrete;
+﻿using Core.Abstract;
+
+
 using System;
 using System.Collections.Generic;
 using System.Data;
@@ -10,7 +10,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataAccess.Concrete.ORM
+namespace Core.Concrete.ORM
 {
     public class ORMBase<ET, OT> : IORM<ET>
             where ET : class,  new()

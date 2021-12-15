@@ -1,5 +1,6 @@
-﻿using DataAccess.Concrete;
+﻿using Core.Concrete;
 using DataAccess.Concrete.ORM;
+
 using Entities.Concrete;
 using System;
 

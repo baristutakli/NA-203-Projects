@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8CrbCnCEen7aZLZ+L5utJNK2RgQtLaU/ACq+iY8jxd2tvwPOfid9kenm5wjhZqbd7dN8er8OlBMFJ/kui4a8Ag==",
+  "dgSpecHash": "dl/dX5eJOB33UWwB73ECayleIniS0IVFqWCYeZqWd6vCXb61xJvARRBrFWvUdJOOOusKctLVpBUlvC4pgoP/Ag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Projects\\ORMProject\\View\\View.csproj",
+  "projectFilePath": "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Projects\\ORMProject\\Core\\Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kbez1\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\kbez1\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

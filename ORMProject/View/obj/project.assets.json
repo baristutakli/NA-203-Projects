@@ -131,10 +131,24 @@
           }
         }
       },
+      "Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "System.Data.SqlClient": "4.8.3"
+        },
+        "compile": {
+          "bin/placeholder/Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.dll": {}
+        }
+      },
       "DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "Core": "1.0.0",
           "Entities": "1.0.0",
           "System.Data.SqlClient": "4.8.3"
         },
@@ -148,6 +162,9 @@
       "Entities/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Core": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Entities.dll": {}
         },
@@ -471,6 +488,11 @@
         "version.txt"
       ]
     },
+    "Core/1.0.0": {
+      "type": "project",
+      "path": "../Core/Core.csproj",
+      "msbuildProject": "../Core/Core.csproj"
+    },
     "DataAccess/1.0.0": {
       "type": "project",
       "path": "../DataAccess/DataAccess.csproj",
@@ -484,6 +506,7 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Core >= 1.0.0",
       "DataAccess >= 1.0.0"
     ]
   },
@@ -519,6 +542,9 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
+            "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Projects\\ORMProject\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Projects\\ORMProject\\Core\\Core.csproj"
+            },
             "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Projects\\ORMProject\\DataAccess\\DataAccess.csproj": {
               "projectPath": "C:\\Users\\kbez1\\Documents\\kodlar\\NA-203-Projects\\ORMProject\\DataAccess\\DataAccess.csproj"
             }
