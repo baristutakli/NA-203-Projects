@@ -18,9 +18,9 @@ namespace View
             //}
              //Shipper sp = new Shipper{ CompanyName = "Boring Company", Phone = "5554442", ShipperID = 3 };
             // ormShipperDal.Update(sp);
-            Shipper sp2 = new Shipper { CompanyName = "Boring Co", Phone = "5554442",ShipperID=12 };
+            //Shipper sp2 = new Shipper { CompanyName = "Boring Co", Phone = "5554442",ShipperID=12 };
             //ormShipperDal.Insert(sp2);
-            ormShipperDal.Delete(sp2);
+            //ormShipperDal.Delete(sp2);
         }
         
     }
