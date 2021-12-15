@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DataAccess.Abstract
 {
-    public interface IORM<T> where T:class,IEntity,new()
+    public interface IORM<T> where T:class,new()
     {
         // Select metoduna expression ekleyeceğim
         List<T> Select();

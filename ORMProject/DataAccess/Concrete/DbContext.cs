@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Data.SqlClient;
 namespace DataAccess.Concrete
 {
-    class DbContext
+    public class DbContext
     {
 
         private  SqlConnection _connection;

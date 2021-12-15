@@ -1,5 +1,6 @@
 ﻿
 using Entities.Abstract;
+using Entities.Concrete;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,8 +13,8 @@ namespace Entities.Concrete
    [Table(PrimaryColumn = "ShipperID", TableName = "Shippers", IdendityColumn = "ShipperID")]
     public class Shipper:IEntity
     {
-        public int ShipperId { get; set; }
         public  string CompanyName { get; set; }
         public  string Phone { get; set; }
+        public int ShipperID { get; set; }
     }
 }

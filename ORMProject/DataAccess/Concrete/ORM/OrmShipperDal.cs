@@ -8,26 +8,8 @@ using System.Threading.Tasks;
 
 namespace DataAccess.Concrete.ORM
 {
-    public class OrmShipperDal : IShipperOrm
+    public class OrmShipperDal : ORMBase<Shipper, OrmShipperDal>
     {
-        public bool Delete(Shipper entity)
-        {
-            throw new NotImplementedException();
-        }
-
-        public bool Insert(Shipper entity)
-        {
-            throw new NotImplementedException();
-        }
-
-        public List<Shipper> Select()
-        {
-            throw new NotImplementedException();
-        }
-
-        public bool Update(Shipper entity)
-        {
-            throw new NotImplementedException();
-        }
+       
     }
 }
