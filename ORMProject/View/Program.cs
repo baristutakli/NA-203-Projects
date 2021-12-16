@@ -1,6 +1,6 @@
 ﻿using Core.Concrete;
 using Core.DataAccess;
-using DataAccess.Concrete.ORM;
+//using DataAccess.Concrete.ORM;
 
 using Entities.Concrete;
 using System;
@@ -28,36 +28,19 @@ namespace View
             //ormShipperDal.Delete(sp2);
 
 
-            //            using Core.DataAccess.EntityFramework;
-            //            using Entities.Concrete;
-            //            using System;
-            //            using System.Collections.Generic;
-            //            using System.Linq;
-            //            using System.Text;
-            //            using System.Threading.Tasks;
-
-            //namespace DataAccess.Concrete.ORM
-            //    {
-            //        public class OrmShipperDal : EfEntityRepositoryBase<Shipper, OrmShipperDal>
-            //        {
-
-            //        }
 
 
-
-
-            //  namespace DataAccess.Concrete.ORM
-            //    {
-            //        public Class IAdressOrm : IEntityRepository<Adress>
-            //    {
-            //    }
-            //}
+    
 
 
             DirectoryInfo di = new DirectoryInfo(@"C:\Users\kbez1\Documents\kodlar\NA-203-Projects\ORMProject\DataAccess\Abstract\");
+            string path = @"C:\Users\kbez1\Documents\kodlar\NA-203-Projects\ORMProject\DataAccess\Concrete\ORM\";
             FileInfo[] files = di.GetFiles("*.cs");
             List<string> listem = new List<string>();
             List<string> newFiles = new List<string>();
+            string needs = "using Core.DataAccess.EntityFramework;\n" + "using Entities.Concrete;\n" + "using System;\n";
+            
+
             foreach (var file in files)
             {
                 string lines = "";
@@ -65,9 +48,10 @@ namespace View
                 string tur = file.Name.Substring(1, file.Name.IndexOf("Orm") - 1);
 
                 string name = $"Orm{tur}Dal";
+                newFiles.Add(path+name+".cs");
 
                 // Console.WriteLine(name);
-
+                
                 
                 foreach (string line in ıenm)
                 {
@@ -84,27 +68,35 @@ namespace View
                 lines = lines.Replace("interface", "class");
                 lines = lines.Replace("DataAccess.Abstract", "DataAccess.Concrete.ORM");
                
-                string degistir = "class "+ name+ " : IEntityRepository<"+tur+">";
-
+                string degistir = "class I"+tur+"Orm" + " : IEntityRepository<"+tur+">";
+              
                 
                 string each = "class "+name+": EfEntityRepositoryBase<"+tur+", "+name+">";
                 
-                string deneme = lines.Replace(degistir, each);
-                
-                Console.WriteLine(deneme);
+                lines = lines.Replace(degistir, each);
 
+                lines = needs + lines;
                 each = "";
 
 
 
-                //listem.Add(lines);
-
+                listem.Add(lines);
+               
             }
 
-            //foreach (var item in listem)
-            //{
-            //    Console.WriteLine(item);
-            //}
+            FileStream fs;
+            StreamWriter sw;
+            for (int i = 0; i < newFiles.Count; i++)
+            {
+                fs = new FileStream(newFiles[i], FileMode.OpenOrCreate, FileAccess.Write);
+                sw = new StreamWriter(fs);
+                sw.WriteLine(listem[i]);
+                sw.Flush();
+                sw.Close();
+                fs.Close();
+            }
+
+          
 
         }
 
