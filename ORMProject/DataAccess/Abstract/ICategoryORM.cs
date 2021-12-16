@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DataAccess.Abstract
 {
-    interface ICategoryORM : IEntityRepository<Category>
+    public interface ICategoryOrm : IEntityRepository<Category>
     {
     }
 }

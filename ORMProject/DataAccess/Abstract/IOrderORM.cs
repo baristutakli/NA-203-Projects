@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DataAccess.Abstract
 {
-    public interface IOrderORM : IEntityRepository<Order>
+    public interface IOrderOrm : IEntityRepository<Order>
     {
     }
 }

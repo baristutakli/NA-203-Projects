@@ -10,7 +10,7 @@ namespace Entities.Concrete
     public class CorporateCustomer:IEntity
     {
         public int ID { get; set; }
-        public string CompanyName { get; set; },
+        public string CompanyName { get; set; }
         public int Contact { get; set; }
     }
 }

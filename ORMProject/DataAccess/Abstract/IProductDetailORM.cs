@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DataAccess.Abstract
 {
-    public interface IProductDetailORM : IEntityRepository<ProductDetail>
+    public interface IProductDetailOrm : IEntityRepository<ProductDetail>
     {
     }
 }

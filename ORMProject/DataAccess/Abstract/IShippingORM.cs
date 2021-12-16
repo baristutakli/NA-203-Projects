@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace DataAccess.Abstract
 {
-    public interface IShippingORM : IEntityRepository<Shipping>
+    public interface IShippingOrm : IEntityRepository<Shipping>
     {
     }
 }

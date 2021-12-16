@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace Entities.Concrete
 {
-    public class CorporateSupplier:IEntity
+    public class CorporateSupplier : IEntity
     {
         public int ID { get; set; }
         public int ContactID { get; set; }
-        
+    }
 }
