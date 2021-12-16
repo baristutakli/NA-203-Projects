@@ -1,25 +1,22 @@
-﻿using Core.Abstract;
-
-
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Data;
 using System.Data.SqlClient;
+using Core.Concrete;
 using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data;
 
-namespace Core.Concrete.ORM
+namespace Core.DataAccess.EntityFramework
 {
-    public class ORMBase<ET, OT> : IORM<ET>
+    public class EfEntityRepositoryBase<ET, OT> : IEntityRepository<ET>
             where ET : class,  new()
             where OT : class,  new()
     {
-
         public DbContext Context { get; set; }
 
-        
+
 
         private static OT _current;
         public static OT Current
@@ -91,7 +88,7 @@ namespace Core.Concrete.ORM
 
             string query = $"{command} {table} ({props}) VALUES ({values});";
             //INSERT INTO Shippers(CompanyName, Phone) VALUES('ASD', '123123');
-            
+
             return ExecuteCommand(query);
         }
 
@@ -107,7 +104,7 @@ namespace Core.Concrete.ORM
             get
             {
                 var attributes = ETType.GetCustomAttributes(typeof(Table), false);
-                
+
 
                 if (attributes != null && attributes.Any())
                 {
@@ -165,7 +162,7 @@ namespace Core.Concrete.ORM
             return ToET(dt);
 
         }
-        private  ET ToET(DataTable dt) 
+        private ET ToET(DataTable dt)
         {
             Type type = typeof(ET);
             ET entity = new ET();
@@ -183,7 +180,7 @@ namespace Core.Concrete.ORM
             return entity;
         }
 
-        private  List<ET> ToList( DataTable dt)
+        private List<ET> ToList(DataTable dt)
         {
             Type type = typeof(ET); // Gelen tip ne? Categories mi, Product mı? Başka birşey mi?  
             List<ET> list = new List<ET>(); // Gelen tip ten nesnelerin olduğu bir liste.
@@ -212,7 +209,7 @@ namespace Core.Concrete.ORM
             PropertyInfo[] properties = ETType.GetProperties();
             string sets = "";
             // tablo adından sonraki parantez içine gelecek kolon adları.
-            
+
             foreach (var pi in properties)
             {
                 if (pi.Name != TableAtt.PrimaryColumn)
@@ -220,12 +217,12 @@ namespace Core.Concrete.ORM
                     if (pi.PropertyType.Name.Contains("String") || pi.PropertyType.Name.Contains("Char"))
                     {
                         sets += pi.Name + "='" + pi.GetValue(entity) + "',";
-                      
+
                     }
                     else
                     {
                         sets += pi.Name + "=" + pi.GetValue(entity) + ",";
-                    
+
                     }
 
                 }
@@ -236,13 +233,13 @@ namespace Core.Concrete.ORM
             {
                 if (pi.Name == TableAtt.IdendityColumn)
                 {
-                 condition += $" WHERE {pi.Name}={pi.GetValue(entity)};";
+                    condition += $" WHERE {pi.Name}={pi.GetValue(entity)};";
                 }
             }
 
             query += condition;
 
-            
+
             return ExecuteCommand(query);
 
         }

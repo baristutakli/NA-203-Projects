@@ -1,5 +1,6 @@
 ﻿
-using Core.Concrete.ORM;
+
+using Core.DataAccess.EntityFramework;
 using Entities.Concrete;
 using System;
 using System.Collections.Generic;
@@ -9,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace DataAccess.Concrete.ORM
 {
-    public class OrmShipperDal : ORMBase<Shipper, OrmShipperDal>
+    public class OrmShipperDal : EfEntityRepositoryBase<Shipper, OrmShipperDal>
     {
        
     }

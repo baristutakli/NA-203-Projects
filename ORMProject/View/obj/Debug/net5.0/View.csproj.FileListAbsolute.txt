@@ -25,3 +25,5 @@ C:\Users\kbez1\Documents\kodlar\NA-203-Projects\ORMProject\View\obj\Debug\net5.0
 C:\Users\kbez1\Documents\kodlar\NA-203-Projects\ORMProject\View\obj\Debug\net5.0\ref\View.dll
 C:\Users\kbez1\Documents\kodlar\NA-203-Projects\ORMProject\View\obj\Debug\net5.0\View.pdb
 C:\Users\kbez1\Documents\kodlar\NA-203-Projects\ORMProject\View\obj\Debug\net5.0\View.genruntimeconfig.cache
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\ORMProject\View\bin\Debug\net5.0\Core.dll
+C:\Users\kbez1\Documents\kodlar\NA-203-Projects\ORMProject\View\bin\Debug\net5.0\Core.pdb

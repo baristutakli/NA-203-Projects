@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v5.0": {
       "View/1.0.0": {
         "dependencies": {
+          "Core": "1.0.0",
           "DataAccess": "1.0.0"
         },
         "runtime": {
@@ -89,8 +90,17 @@
         }
       },
       "System.Security.Principal.Windows/4.7.0": {},
+      "Core/1.0.0": {
+        "dependencies": {
+          "System.Data.SqlClient": "4.8.3"
+        },
+        "runtime": {
+          "Core.dll": {}
+        }
+      },
       "DataAccess/1.0.0": {
         "dependencies": {
+          "Core": "1.0.0",
           "Entities": "1.0.0",
           "System.Data.SqlClient": "4.8.3"
         },
@@ -99,6 +109,9 @@
         }
       },
       "Entities/1.0.0": {
+        "dependencies": {
+          "Core": "1.0.0"
+        },
         "runtime": {
           "Entities.dll": {}
         }
@@ -173,6 +186,11 @@
       "sha512": "sha512-ojD0PX0XhneCsUbAZVKdb7h/70vyYMDYs85lwEI+LngEONe/17A0cFaRFqZU+sOEidcVswYWikYOQ9PPfjlbtQ==",
       "path": "system.security.principal.windows/4.7.0",
       "hashPath": "system.security.principal.windows.4.7.0.nupkg.sha512"
+    },
+    "Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "DataAccess/1.0.0": {
       "type": "project",

@@ -1,5 +1,6 @@
 ﻿
-using Core.Abstract;
+
+using Core.DataAccess;
 using Entities.Concrete;
 using System;
 using System.Collections.Generic;
@@ -9,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace DataAccess.Abstract
 {
-    public interface IShipperOrm:IORM<Shipper>
+    public interface IShipperOrm:IEntityRepository<Shipper>
     {
     }
 }
