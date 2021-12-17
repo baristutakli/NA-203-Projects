@@ -1,5 +1,6 @@
 ﻿using Core.Concrete;
 using Core.DataAccess;
+using DataAccess.Concrete.ORM;
 //using DataAccess.Concrete.ORM;
 
 using Entities.Concrete;
@@ -14,12 +15,12 @@ namespace View
     {
         static void Main(string[] args)
         {
-            //OrmShipperDal ormShipperDal = new OrmShipperDal();
-            //ormShipperDal.Context = new DbContext();
+            //OrmCategoryDal ormCategory = new OrmCategoryDal();
+            //ormCategory.Context = new DbContext();
 
-            //foreach (var item in ormShipperDal.Select())
+            //foreach (var item in ormCategory.Select())
             //{
-            //    Console.WriteLine(item.CompanyName);
+            //    Console.WriteLine(item.CategoryName);
             //}
             //Shipper sp = new Shipper{ CompanyName = "Boring Company", Phone = "5554442", ShipperID = 3 };
             // ormShipperDal.Update(sp);

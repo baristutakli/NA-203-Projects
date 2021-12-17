@@ -73,7 +73,7 @@ namespace Core.DataAccess.EntityFramework
             // tablo adından sonraki parantez içine gelecek kolon adları.
             foreach (var pi in properties)
             {
-                if (pi.Name != TableAtt.IdendityColumn)
+                if (pi.Name != TableAtt.IdentityColumn)
                 {
                     props += pi.Name + ",";
                     if (pi.PropertyType.Name.Contains("String"))
@@ -231,7 +231,7 @@ namespace Core.DataAccess.EntityFramework
             query += sets;
             foreach (var pi in properties)
             {
-                if (pi.Name == TableAtt.IdendityColumn)
+                if (pi.Name == TableAtt.IdentityColumn)
                 {
                     condition += $" WHERE {pi.Name}={pi.GetValue(entity)};";
                 }

@@ -17,7 +17,7 @@ namespace Core.DataAccess
             {
                 if (_connection == null)
                 {
-                    _connection = new SqlConnection(@"Server=(localdb)\MSSQLLocalDB;Database=Northwind;Trusted_Connection=true; ");
+                    _connection = new SqlConnection(@"Server=(localdb)\MSSQLLocalDB;Database=ECommerce;Trusted_Connection=true; ");
                 }
                 return _connection;
             }
