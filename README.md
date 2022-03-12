@@ -1,4 +1,4 @@
-## Network Academy 203 Ders Notları
+## Network Academy 203 Ders Projeleri
 Bu repository "**Niteklikli Bilişim Uzmanı Yetiştirme Programı**" süresince derste işlemiş olduğumuz konulara proje dosyalarını içermektedir.
 
 ### Eğitim İçeriği
